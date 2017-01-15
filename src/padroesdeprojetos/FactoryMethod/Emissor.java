@@ -2,6 +2,6 @@ package padroesdeprojetos.FactoryMethod;
 
 public interface Emissor {
 
-	void enviamensagem(String mensagem);
+	void enviaMensagem(String mensagem);
 
 }
